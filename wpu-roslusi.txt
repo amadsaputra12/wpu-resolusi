@@ -3,5 +3,5 @@ wpu rosolusi
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
 - perubahan 5
-- membuat pet shop
 - kolaborasi dengan banyak pasar
+- membuat vlog
