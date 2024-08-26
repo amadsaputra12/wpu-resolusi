@@ -2,4 +2,6 @@ wpu rosolusi
 - konsisten untuk membuat konten 2x seminggu
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
--perubahan 5
+- perubahan 5
+- membuat pet shop
+- kolaborasi dengan banyak pasar
